@@ -1,7 +1,5 @@
 Hi there! I'm Taha Zalzali, a passionate mobile app developer specializing in React Native. Over the last four years, I've focused on building cross-platform mobile applications for both Android and iOS. My journey in tech started with web development, leading me to embrace React.js and eventually React Native, merging my love for user-centric designs with efficient, responsive code. I'm always exploring new technologies and methodologies to enhance user experiences and streamline development processes. Welcome to my GitHub, where I share my projects and continue my journey in tech innovation!
 
-![image](https://github.com/tahazalzali/tahazalzali/assets/76237241/91de0c32-ba9b-4e64-abe4-a562539783ac)
-
 
 <!--
 **tahazalzali/tahazalzali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
